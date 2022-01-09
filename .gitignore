@@ -1,0 +1,4 @@
+types/*
+package.json
+jsconfig.json
+tsconfig.json
