@@ -1,7 +1,7 @@
 const TextAlignment = Object.freeze({
-    LEFT: "TextAnchor.LeftCenter",
+    LEFT: "TextAnchor.MiddleLeft",
     CENTER: "TextAnchor.MiddleCenter",
-    RIGHT: "TextAnchor.RightCenter"
+    RIGHT: "TextAnchor.MiddleRight"
 });
 
 module.exports = {
