@@ -102,7 +102,7 @@ function input(cuiInput) {
                     CharsLimit = 16,
                     Color = "{3}",
                     IsPassword = false,
-                    Command = {4},
+                    Command = "{4}",
                     Font = "robotocondensed-bold.ttf",
                     FontSize = {5},
                     Align = {6}
